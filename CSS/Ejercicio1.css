@@ -1,0 +1,70 @@
+html{
+    background-color: rgb(149, 255, 43);
+}
+body{
+    color: blue;
+}
+body header{
+    margin: 0.5em;
+    text-align: center;
+    background-color: rgb(242, 255, 127);
+    padding: 1em;
+    border: solid 10px blue ;
+    border-style: groove;
+    border-radius: 3em;
+
+}
+legend{
+    margin: 0.5em;
+    background-color:  rgb(242, 255, 127);;
+    border: solid 10px blue ;
+    border-style: groove;
+    text-align: center;
+    border-radius: 3em;
+    padding: 1em;
+    padding-bottom: 3em;
+}
+fieldset{
+    background-color: rgb(242, 255, 127);;
+    padding: 1em;
+    border: solid 10px blue;
+    border-style: groove;
+    border-radius: 3em;
+    
+}
+
+#zona_glifos{
+    margin-top: 1em;
+
+}
+
+.glifo{
+    padding-left: 1.5em;
+    display: inline-block;
+    text-align: center;
+    margin-right: 0.5em;
+    margin-bottom: 0.5em;
+    
+
+}
+span{
+    font-size: 1em;
+    color: blue;
+}
+span.texto{
+    color: blue;
+    font-size: normal;
+    display: block;
+    font-size: 3em;
+    width: 1em;
+    height: 1em;
+    padding: 0.25em;
+    border: solid 5px blue ;
+    border-radius: 1em;
+    border-style: groove;
+    text-align: center;
+    overflow: hidden;
+    background-color:  rgb(242, 255, 127);;
+
+
+}
